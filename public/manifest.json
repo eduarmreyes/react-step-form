@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Step Form",
+  "name": "Step form",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +9,8 @@
     }
   ],
   "start_url": ".",
+  "favicon_url": "https://favicon.io/favicon-generator/?t=S&ff=Lilita+One&fs=110&fc=%23FFFFFF&b=rounded&bc=%23209CEE",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#209CEE",
+  "background_color": "#209CEE"
 }
